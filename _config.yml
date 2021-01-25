@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: The Machine Ambassador
+email: karus54321@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: TheMachineAmbassador
 
 # Build settings
 markdown: kramdown
